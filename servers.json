@@ -1,5 +1,9 @@
 {
     "servers": [
+          {
+            "name": "omanisette-25",
+            "address": "https://omnisette-serverss.onrender.com"
+        },
         {
             "name": "anisette-v3",
             "address": "https://anisette-v3-server-obja.onrender.com"
