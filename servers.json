@@ -1,52 +1,191 @@
 {
     "servers": [
         {
-            "name": "SideStore",
-            "address": "https://ani.sidestore.io"
+            "name": "anisette-v3",
+            "address": "https://anisette-v3-server-obja.onrender.com"
         },
         {
-            "name": "SideStore (.zip)",
-            "address": "https://ani.sidestore.zip"
+            "name": "anisette-v3-2",
+            "address": "https://youtube-wzsa.onrender.com"
         },
         {
-            "name": "SideStore (.xyz)",
-            "address": "https://ani.846969.xyz"
+            "name": "anisette-v3-3",
+            "address": "https://anisette-v3-server-1-3k6p.onrender.com"
         },
         {
-            "name": "Stern",
-            "address": "http://ani.sternserv.xyz"
+            "name": "anisette-v3-4",
+            "address": "https://anisette-v3-server-1-3k6p.onrender.com"
         },
         {
-            "name": "Macley",
-            "address": "http://5.249.163.88:6969"
+            "name": "anisette-v3-5",
+            "address": "https://anisette-v3-server-2-8uck.onrender.com"
         },
         {
-            "name": "Jawshoeadan",
-            "address": "https://anisette.jawshoeadan.me"
+            "name": "anisette-v3-6",
+            "address": "https://anisette-v3-server-3.onrender.com"
         },
         {
-            "name": "WesleyBryie",
-            "address": "https://ani.wesbryie.com"
+            "name": "anisette-v3-7",
+            "address": "https://anisette-v3-server-4.onrender.com"
         },
         {
-            "name": "Stossy11",
-            "address": "https://anisette.stossy11.com"
+            "name": "anisette-v3-8",
+            "address": "https://anisette-v3-server-mkjs.onrender.com"
         },
         {
-            "name": "SeasiDev",
-            "address": "https://anisette.seasi.dev"
+            "name": "anisette-v3-9",
+            "address": "https://anisette-v3-server-2-nihr.onrender.com"
         },
         {
-            "name": "SteX",
-            "address": "https://ani.xu30.top"
+            "name": "anisette-v3-10",
+            "address": "https://anisette-v3-server-1-x0uu.onrender.com"
         },
         {
-            "name": "owoellen",
-            "address": "https://ani.owoellen.rocks"
+            "name": "anisette-v3-11",
+            "address": "https://anisette-v3-server-3-gw2c.onrender.com/"
         },
         {
-            "name": "pythonplayer123",
-            "address": "https://ani3server.fly.dev"
-        }
+            "name": "anisette-v3-12",
+            "address": "https://anisette-v3-server-4-cumm.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-13",
+            "address": "https://anisette-v3-server-5.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-14",
+            "address": "https://anisette-v3-server-6.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-15",
+            "address": "https://anisette-v3-server-7.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-16",
+            "address": "https://anisette-v3-server-8.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-17",
+            "address": "https://anisette-v3-server-9.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-18",
+            "address": "https://anisette-v3-server-10.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-19",
+            "address": "https://anisette-v3-server-11.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-20",
+            "address": "https://anisette-v3-server-12.onrender.com/"
+        },
+
+        {
+            "name": "anisette-v3-21",
+            "address": "https://anisette-v3-server-13.onrender.com/"
+        },
+        {
+            "name": "anisette-v3-22",
+            "address": "https://anisette-v3-server-14.onrender.com/"
+        },
+        {
+            "name": "omanisette",
+            "address": "https://omnisette-server-4jmx.onrender.com"
+        },
+        {
+            "name": "omanisette-2",
+            "address": "https://google-pgyu.onrender.com/"
+        },
+
+       {
+            "name": "omanisette-3",
+            "address": "https://omnisette-servers.onrender.com/"
+        },
+       {
+            "name": "omanisette-4",
+            "address": "https://omnisette-server-1.onrender.com/"
+        },
+       {
+            "name": "omanisette-5",
+            "address": "https://omnisette-server-2.onrender.com/"
+        },
+       {
+            "name": "omanisette-6",
+            "address": "https://omnisette-server-3.onrender.com/"
+        },
+       {
+            "name": "omanisette-7",
+            "address": "https://omnisette-server-4.onrender.com/"
+        },
+       {
+            "name": "omanisette-8",
+            "address": "https://omnisette-server-1-wn12.onrender.com/"
+        },
+       {
+            "name": "omanisette-9",
+            "address": "https://youtube-h854.onrender.com/"
+        },
+       {
+            "name": "omanisette-10",
+            "address": "https://google-icwo.onrender.com/"
+        },
+       {
+            "name": "omanisette-11",
+            "address": "https://proxy-aqug.onrender.com/"
+        },
+       {
+            "name": "omanisette-12",
+            "address": "https://interstellar-4vyf.onrender.com/"
+        },
+       {
+            "name": "omanisette-13",
+            "address": "https://battlecats.onrender.com/"
+        },
+       {
+            "name": "omanisette-14",
+            "address": "https://omnisette-zb9t.onrender.com/"
+        },
+       {
+            "name": "omanisette-15",
+            "address": "https://yandex-k0kv.onrender.com/"
+        },
+       {
+            "name": "omanisette-16",
+            "address": "https://ociemocoe.onrender.com/"
+        },
+      {
+            "name": "omanisette-17",
+            "address": "https://yuki-math-blog-mdn5.onrender.com/"
+        },
+       {
+            "name": "omanisette-18",
+            "address": "https://yuki-tangolevel-m5bd.onrender.com/"
+        },
+      {
+            "name": "omanisette-19",
+            "address": "https://omnisette-server-4-8zlk.onrender.com/"
+        },
+      {
+            "name": "omanisette-20",
+            "address": "https://omnisette-server-3-vx6y.onrender.com/"
+        },
+      {
+            "name": "omanisette-21",
+            "address": "https://mangaraw.onrender.com/"
+        },
+      {
+            "name": "omanisette-22",
+            "address": "https://mangakoma.onrender.com"
+        },
+      {
+            "name": "omanisette-23",
+            "address": "https://uyouplus.onrender.com"
+        },
+      {
+            "name": "omanisette-24",
+            "address": "https://omnisette-server-5.onrender.com/"
+        },
+
     ]
 }
